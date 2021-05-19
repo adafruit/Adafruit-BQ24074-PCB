@@ -1,6 +1,6 @@
 ## Adafruit BQ24074 Solar Charger PCB
 
-<a href="http://www.adafruit.com/products/47XX"><img src="assets/47XX.png?raw=true" width="500px"><br/>
+<a href="https://www.adafruit.com/product/4755"><img src="assets/47XX.png?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
 PCB files for the Adafruit BQ24074 Solar Charger. 
