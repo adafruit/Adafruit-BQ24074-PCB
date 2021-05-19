@@ -1,6 +1,6 @@
 ## Adafruit BQ24074 Solar Charger PCB
 
-<a href="http://www.adafruit.com/products/47XX"><img src="assets/47XX.png?raw=true" width="500px"><br/>
+<a href="https://www.adafruit.com/product/4755"><img src="assets/47XX.png?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
 PCB files for the Adafruit BQ24074 Solar Charger. 
@@ -10,7 +10,7 @@ Format is EagleCAD schematic and board layout
 
 ### Description
 
-INSERT PRODUCT COPY HERE
+This charger is the only one you need to keep all your Lithium Polymer (LiPoly) or Lithium Ion (LiIon) rechargeable batteries topped up. No matter the power source at your disposal! The Adafruit Universal USB / DC / Solar Lithium Ion/Polymer Charger can use USB, DC or Solar power, with a wide 5-10V input voltage range! The charger chip is super smart, and will reduce the current draw if the input voltage starts to dip under 4.5V, making it a perfect near-MPPT solar charger that you can use with a wide range of panels.
 
 ### License
 
