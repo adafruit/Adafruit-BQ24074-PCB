@@ -6,7 +6,7 @@ Click here to purchase one from the Adafruit shop</a>
 PCB files for the Adafruit BQ24074 Solar Charger. 
 
 Format is EagleCAD schematic and board layout
-* https://www.adafruit.com/product/47XX
+* https://www.adafruit.com/product/4755
 
 ### Description
 
